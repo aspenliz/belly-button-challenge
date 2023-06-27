@@ -40,6 +40,9 @@ Display each key-value pair from the metadata JSON object somewhere on the page.
 
 Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. 
 
+Here is a link to my dashboard:
+file:///C:/Users/aspen/osu/homework/belly-button-challenge/index.html
+
 
 
 
